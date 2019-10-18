@@ -1,5 +1,5 @@
 # Sistema Solar - Resolución
-### Tecnologías escojidas: 
+### Tecnologías escogidas: 
 
 - [NodeJS](https://nodejs.org/es/)
 - [Express](https://expressjs.com/es/)
